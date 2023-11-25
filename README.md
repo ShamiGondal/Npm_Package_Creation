@@ -27,14 +27,6 @@ translator(textToTranslate, targetLanguage)
 ```
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
 ## Deployment
 
 To deploy this project run install node
