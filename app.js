@@ -55,3 +55,8 @@ async function translator(str, language) {
 
 translator("my name is shami",'French')
 module.exports = translator;
+
+//if the readme does not get properly displayed on the npm pkg site then
+//delete the file copy the text before and open notepad paste there and then 
+//save the file with same data , and then put that file in the code ,
+//then push it to github
